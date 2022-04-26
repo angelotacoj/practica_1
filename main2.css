@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.line{
+    width: 100%;
+    border: 1px solid #000;
+}
+
+.buttons2{
+    display: flex;
+    justify-content: center;
+}
+
+.line2{
+    height: 5px;
+    width: 1px;
+    border: 1px solid #000;
+}
